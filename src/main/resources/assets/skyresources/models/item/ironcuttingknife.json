@@ -1,0 +1,6 @@
+{
+  "parent":"skyresources:item/cactuscuttingknife",
+  "textures": {
+    "layer0":"skyresources:items/ironknife"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent":"skyresources:item/stonegrinder",
+  "textures": {
+    "layer0":"skyresources:items/ironrockgrinder"
+  }
+}
